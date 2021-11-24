@@ -2,7 +2,7 @@
 //  Story.swift
 //  StoryHub
 //
-//  Created by Alexia Ruiz Quiroz on 21/11/21.
+//  Created by Alberto Hoyos on 21/11/21.
 //
 
 import Foundation

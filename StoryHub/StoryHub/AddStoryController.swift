@@ -2,7 +2,7 @@
 //  AddStoryController.swift
 //  StoryHub
 //
-//  Created by Alexia Ruiz Quiroz on 22/11/21.
+//  Created by Alberto Hoyos on 22/11/21.
 //
 
 import Foundation
